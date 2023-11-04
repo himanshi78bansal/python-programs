@@ -1,0 +1,9 @@
+Hello World! 
+I'm learning file handling in python
+City1: Hisar 
+City2 : Gurugram 
+City3 : Chandigarh 
+
+City1: Hisar 
+City2 : Gurugram 
+City3 : Chandigarh 
